@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KaushikaVats
 - 👀 I’m interested in .. coding.
-- 🌱 I’m currently learning .. full stack web  development.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning .. full stack web  development ,DSA.
+- 💞️ I’m looking to collaborate on ... Open Source Projects, Web Development, MERN Stack applications, AI/ML projects, and beginner-friendly JavaScript or Java-based projects.
 - 📫 How to reach me ... LinkedIn 
 - 😄 Pronouns: ...diligent, valiant 
 
